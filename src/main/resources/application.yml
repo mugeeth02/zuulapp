@@ -14,4 +14,4 @@ management:
 
 spring:
   application:
-    name: zuul-gateway
+    name: zuulapp
